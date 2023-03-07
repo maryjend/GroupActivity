@@ -6,9 +6,9 @@
 
 ## UX Team Members
 
-* **[Crispin Gutierrez](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Mary Jendricks](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[William Wang](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Crispin Gutierrez](!!!URL to Person A's published portfolio!!!)** - contributed to competitive analysis, heuristic evaluations, and design aspects
+* **[Mary Jendricks](!!!URL to Person B's published portfolio!!!)** - contributed to competitive analysis, heuristic evaluations, and design aspects
+* **[William Wang](!!!URL to Person C's published portfolio!!!)** - contributed to competitive analysis, heuristic evaluations, and design aspects
 
 # User-Centered Design Artifacts
  
