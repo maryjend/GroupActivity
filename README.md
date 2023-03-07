@@ -6,14 +6,14 @@
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Crispin Gutierrez](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Mary Jendricks](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[William Wang](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](personas/)
+* [Personas and Scenarios](personas/x06_Personas_and_Scenarios.pdf)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
