@@ -1,4 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
 # Group Activity
 
@@ -14,7 +13,7 @@
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/x06_Personas_and_Scenarios.pdf)
-* [Sketches and Diagrams](sketches/)
+* [Sketches and Diagrams](sketches/ux_sketches.pdf)
 * [Wireframes](#) - Coming soon (phase II)!
 * [Prototype](#) - Coming soon (phase III)!
 
