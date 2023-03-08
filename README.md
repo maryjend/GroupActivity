@@ -1,7 +1,7 @@
 
 # Group Activity
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Group Activity is a web project designed to make organizing and planning events with friends easier, The problem we intend to solve is getting rid of cumbersome group chats that deviate into all kinds of off topic conversations and make a app that allows users to interact to and talk with friends while also keeping upto date and schedule events to attend, sortof a rsvp app mixed with a calendar app!
 
 ## UX Team Members
 
