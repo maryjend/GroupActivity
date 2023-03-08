@@ -6,9 +6,9 @@
 
 ## UX Team Members
 
-* **[Crispin Gutierrez](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Mary Jendricks](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[William Wang](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Crispin Gutierrez](https://usabilityengineering.github.io/ux-portfolio-cgutierrez57/)** - Competitive analysis, Herustic evaluation and Design analysis
+* **[Mary Jendricks](https://usabilityengineering.github.io/ux-portfolio-maryjend/)** - Competitive analysis, Herustic evaluation and Design analysis
+* **[William Wang](https://usabilityengineering.github.io/ux-portfolio-william231996/)** - Competitive analysis, Herustic evaluation and Design analysis
 
 # User-Centered Design Artifacts
  
