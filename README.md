@@ -5,9 +5,9 @@ Group Activity is a web project designed to make organizing and planning events 
 
 ## UX Team Members
 
-* **[Crispin Gutierrez](https://usabilityengineering.github.io/ux-portfolio-cgutierrez57/)** - Competitive analysis, Herustic evaluation and Design analysis
-* **[Mary Jendricks](https://usabilityengineering.github.io/ux-portfolio-maryjend/)** - Competitive analysis, Herustic evaluation and Design analysis
-* **[William Wang](https://usabilityengineering.github.io/ux-portfolio-william231996/)** - Competitive analysis, Herustic evaluation and Design analysis
+* **[Crispin Gutierrez](https://usabilityengineering.github.io/ux-portfolio-cgutierrez57/)** - Competitive analysis, Heuristic evaluation and Design analysis
+* **[Mary Jendricks](https://usabilityengineering.github.io/ux-portfolio-maryjend/)** - Competitive analysis, Heuristic evaluation and Design analysis
+* **[William Wang](https://usabilityengineering.github.io/ux-portfolio-william231996/)** - Competitive analysis, Heuristic evaluation and Design analysis
 
 # User-Centered Design Artifacts
  
